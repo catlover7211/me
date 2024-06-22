@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@900&display=swap');
+
+html, body {
+    font-family: 'Cubic', serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    color: rgb(255,255,255);
+    height: 100%;
+    margin: 0;
+    padding: 0;  
+}
+
+body {
+    background: black;
+    background-size: cover;
+    /* animation: moveBackground 20s linear infinite; */
+    /* background-attachment: fixed; */
+    /* text-align: center; */
+    min-height: 100vh; /*Ensure body takes full viewport height */
+    margin: 0;
+}
+
+h1{
+    font-size:7em;
+}
+
+h2{
+    font-size:2.5em;
+}
+ul{
+    font-size:1.5em;
+}
+
+@font-face {
+    font-family: 'Cubic';
+    src: url('font/Cubic_11_1.200_R.woff') format("woff"),
+    
+}
+

@@ -61,7 +61,7 @@ li{
   /* Create four equal columns that sits next to each other */
   .column {
     flex: 25%;
-    max-width: 19.4%;
+    max-width: 19.3%;
     padding: 0 4px;
   }
   

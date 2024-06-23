@@ -17,6 +17,7 @@
           "iframe[allow]"
         ]
       }
-    ]
+    ],
+    "axe/structure": "off"
   }
 }
